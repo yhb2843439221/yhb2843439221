@@ -1,1 +1,111 @@
-{"titleNameMap":{"educationList":"教育背景","workExpList":"工作经历","projectList":"项目经历","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"自我介绍"},"avatar":{"hidden":true},"profile":{"name":"杨华帮","email":"yhb2843439221@163.com","mobile":"19574461211","github":"","zhihu":"","workExpYear":"","workPlace":"","positionTitle":"运维/技术与支持"},"educationList":[{"edu_time":["2022.09.01","2026.06.30"],"school":"张家界学院","major":"计算机科学与技术","academic_degree":"本科","dataIndex":0}],"awardList":[{"award_time":"大学英语CET4","award_info":"2024"}],"workExpList":[{"company_name":"广州赛特智能（实习）","department_name":"远程运维部","work_time":["2025.9 "," 2026.1"],"work_desc":"• 负责基于 Ubuntu 系统的机器人人机系统远程运维与技术支持，通过远程方式对设备运行状态进行监控与问题分析，协助处理机器人运行过程中出现的系统异常及服务故障。\n• 参与机器人人机软件的部署、版本升级与维护工作，借助相关部署工具完成软件发布与更新，在升级或运行异常情况下，通过查看系统日志、修改相关配置文件及对关键服务进行重启，协助恢复系统正常运行。\n• 在运维平台依赖后端系统的架构下，参与人机系统功能验证与运行测试，协助确认部署及升级后功能与系统运行状态，并将异常情况及时反馈给后端研发人员。\n• 在日常运维过程中，按要求记录设备运行情况与故障处理过程，填写运维日志并整理技术文档，与研发及现场人员保持沟通，在无法通过远程运维解决问题时协助完成问题定位与升级，保障设备的稳定运行。","dataIndex":0},{"work_time":["2026.2","2026.6"],"company_name":"亚信科技（南京）有限公司（实习)","department_name":"CMB 西北区工程一部","work_desc":"1、负责电信运营支撑系统的数据维护工作，根据业务需求编写并执行 Oracle SQL 脚本，完成数据增删改查及批量处理，保障业务数据准确性\n2、使用 SQL 进行数据查询与核对，定位异常数据并修复；结合 Linux 主机日志分析应用日志，辅助定位系统异常问题\n3、参与系统日常服务巡检及基础监控工作，对服务器资源、应用服务状态及关键业务指标进行检查，及时发现并处理异常，保障系统稳定运行\n4、参与系统夜间更新与发布工作，按照既定流程执行数据更新及脚本变更，完成结果验证并处理异常情况，确保版本平稳上线\n5、熟悉业务流程及数据库结构，在实际工作中总结常见问题并优化处理步骤，提升整体运维效率"}],"skillList":[{"skill_desc":"TCP/IP 网络基础，HTTP/DNS 等常见协议；Linux 系统运维与故障排查；Shell 脚本自动化"},{"skill_desc":"MySQL 数据库基础；Nginx Web 服务配置；Docker 容器化部署"},{"skill_desc":"Zabbix 监控、Ansible 自动化；Python / Django 基础开发；Git 基本使用"}],"projectList":[{"project_name":"基于Django类CSDN社区","project_role":"","project_time":"2025.6,2025.8","project_desc":"\n基于 Django 框架 开发的类 CSDN 博客社区系统，实现用户注册登录、文章发布与管理、评论互动等核心功能，模拟技术社区的基本业务流程，用于加深对 Python Web 开发与后端基础架构 的理解。","project_content":"\n▪独立基于 Django 框架开发社区类 Web 项目，实现用户注册、登录及 Session 用户态管理\n▪实现文章发布与管理功能，支持富文本编辑、分类标签、草稿及发布状态控制\n▪开发评论与回复功能，完成基础社区互动逻辑\n▪负责项目本地部署、调试与问题排查，保障系统正常运行","dataIndex":0},{"project_time":"2025.2,2025.3","project_name":"基于 Docker 容器化的 Zabbix 监控系统搭建与运维实践","project_role":"","project_desc":"基于 Docker 容器技术部署 Zabbix 监控系统，采用 Zabbix Server + Web + MySQL + Agent 的容器化架构，实现对 Linux 主机及服务状态的集中监控。\n项目通过容器方式完成 Zabbix 环境快速部署与版本隔离，支持主机自动发现、监控项采集、触发器告警及可视化展示，有效提升系统可维护性与部署效率，适用于中小规模服务器监控场景。","project_content":"\n▪使用 Docker / Docker Compose 部署 Zabbix Server、Zabbix Web、MySQL 等组件，完成容器间网络通信与服务编排\n▪配置 Zabbix Agent 监控 Linux 主机的 CPU、内存、磁盘、网络等关键指标\n▪创建监控项、触发器与告警规则，实现主机异常状态自动告警\n▪使用 Zabbix 模板对监控配置进行复用，降低重复配置成本\n▪完成监控数据在 Web 页面中的可视化展示，验证监控与告警效果\n▪负责容器环境的启动、停止、日志排查与基础运维，保障系统稳定运行","dataIndex":1}],"workList":[],"aboutme":{"aboutme_desc":"计算机科学与技术专业，云计算与运维方向。具备 Linux（Ubuntu / CentOS）系统运维基础，能够进行服务部署、配置修改、日志排查及常见故障处理，熟悉 Shell 脚本与基础自动化操作。\n有远程运维与技术支持经验，参与系统部署与版本升级、运行测试及运维文档整理，能在问题发生时协助定位原因并与后端研发沟通解决。学习能力较强，对运维工作有持续投入意愿，希望在实际工作中不断提升系统与业务理解能力。"},"theme":{"color":"#2f5785","tagColor":"#8bc34a"},"null":{"name":"杨华帮","email":"yhb2843439221@163.com","mobile":"19574461211","github":"","zhihu":"","workExpYear":"","workPlace":"","positionTitle":"y"}}
+{
+"titleNameMap": {
+"educationList": "教育背景",
+"workExpList": "工作经历",
+"projectList": "项目经历",
+"skillList": "个人技能",
+"awardList": "更多信息",
+"workList": "个人作品",
+"aboutme": "自我介绍"
+},
+"avatar": {
+"hidden": true
+},
+"profile": {
+"name": "杨华帮",
+"email": "yhb2843439221@163.com",
+"mobile": "19574461211",
+"github": "",
+"zhihu": "",
+"workExpYear": "",
+"workPlace": "",
+"positionTitle": "运维 / 技术与支持"
+},
+"educationList": [
+{
+"edu_time": [
+"2022.09.01",
+"2026.06.30"
+],
+"school": "张家界学院",
+"major": "计算机科学与技术",
+"academic_degree": "本科",
+"dataIndex": 0
+}
+],
+"awardList": [
+{
+"award_time": "大学英语 CET4",
+"award_info": "2024"
+}
+],
+"workExpList": [
+{
+"company_name": "亚信科技（南京）有限公司（实习)",
+"department_name": "CMB 西北区工程一部",
+"work_time": [
+"2026.2",
+"2026.6"
+],
+"work_desc": "1、负责电信运营支撑系统的数据维护工作，根据业务需求编写并执行 Oracle SQL 脚本，完成数据增删改查及批量处理，保障业务数据准确性 \n2、使用 SQL 进行数据查询与核对，定位异常数据并修复；结合 Linux 主机日志分析应用日志，辅助定位系统异常问题 \n3、参与系统日常服务巡检及基础监控工作，对服务器资源、应用服务状态及关键业务指标进行检查，及时发现并处理异常，保障系统稳定运行 \n4、参与系统夜间更新与发布工作，按照既定流程执行数据更新及脚本变更，完成结果验证并处理异常情况，确保版本平稳上线 \n5、熟悉业务流程及数据库结构，在实际工作中总结常见问题并优化处理步骤，提升整体运维效率",
+"dataIndex": 0
+},
+{
+"company_name": "广州赛特智能（实习）",
+"department_name": "远程运维部",
+"work_time": [
+"2025.9",
+"2026.1"
+],
+"work_desc": "・负责基于 Ubuntu 系统的机器人人机系统远程运维与技术支持，通过远程方式对设备运行状态进行监控与问题分析，协助处理机器人运行过程中出现的系统异常及服务故障。\n・参与机器人人机软件的部署、版本升级与维护工作，借助相关部署工具完成软件发布与更新，在升级或运行异常情况下，通过查看系统日志、修改相关配置文件及对关键服务进行重启，协助恢复系统正常运行。\n・在运维平台依赖后端系统的架构下，参与人机系统功能验证与运行测试，协助确认部署及升级后功能与系统运行状态，并将异常情况及时反馈给后端研发人员。\n・在日常运维过程中，按要求记录设备运行情况与故障处理过程，填写运维日志并整理技术文档，与研发及现场人员保持沟通，在无法通过远程运维解决问题时协助完成问题定位与升级，保障设备的稳定运行。",
+"dataIndex": 1
+}
+],
+"skillList": [
+{
+"skill_desc": "TCP/IP 网络基础，HTTP/DNS 等常见协议；Linux 系统运维与故障排查；Shell 脚本自动化"
+},
+{
+"skill_desc": "MySQL 数据库基础；Nginx Web 服务配置；Docker 容器化部署"
+},
+{
+"skill_desc": "Zabbix 监控、Ansible 自动化；Python / Django 基础开发；Git 基本使用"
+}
+],
+"projectList": [
+{
+"project_name": "基于 Django 类 CSDN 社区",
+"project_role": "",
+"project_time": "2025.6,2025.8",
+"project_desc": "\n 基于 Django 框架 开发的类 CSDN 博客社区系统，实现用户注册登录、文章发布与管理、评论互动等核心功能，模拟技术社区的基本业务流程，用于加深对 Python Web 开发与后端基础架构 的理解。",
+"project_content": "\n▪独立基于 Django 框架开发社区类 Web 项目，实现用户注册、登录及 Session 用户态管理 \n▪实现文章发布与管理功能，支持富文本编辑、分类标签、草稿及发布状态控制 \n▪开发评论与回复功能，完成基础社区互动逻辑 \n▪负责项目本地部署、调试与问题排查，保障系统正常运行",
+"dataIndex": 0
+},
+{
+"project_time": "2025.2,2025.3",
+"project_name": "基于 Docker 容器化的 Zabbix 监控系统搭建与运维实践",
+"project_role": "",
+"project_desc": "基于 Docker 容器技术部署 Zabbix 监控系统，采用 Zabbix Server + Web + MySQL + Agent 的容器化架构，实现对 Linux 主机及服务状态的集中监控。\n 项目通过容器方式完成 Zabbix 环境快速部署与版本隔离，支持主机自动发现、监控项采集、触发器告警及可视化展示，有效提升系统可维护性与部署效率，适用于中小规模服务器监控场景。",
+"project_content": "\n▪使用 Docker / Docker Compose 部署 Zabbix Server、Zabbix Web、MySQL 等组件，完成容器间网络通信与服务编排 \n▪配置 Zabbix Agent 监控 Linux 主机的 CPU、内存、磁盘、网络等关键指标 \n▪创建监控项、触发器与告警规则，实现主机异常状态自动告警 \n▪使用 Zabbix 模板对监控配置进行复用，降低重复配置成本 \n▪完成监控数据在 Web 页面中的可视化展示，验证监控与告警效果 \n▪负责容器环境的启动、停止、日志排查与基础运维，保障系统稳定运行",
+"dataIndex": 1
+}
+],
+"workList": [],
+"aboutme": {
+"aboutme_desc": "计算机科学与技术专业，云计算与运维方向。具备 Linux（Ubuntu / CentOS）系统运维基础，能够进行服务部署、配置修改、日志排查及常见故障处理，熟悉 Shell 脚本与基础自动化操作。\n 有远程运维与技术支持经验，参与系统部署与版本升级、运行测试及运维文档整理，能在问题发生时协助定位原因并与后端研发沟通解决。学习能力较强，对运维工作有持续投入意愿，希望在实际工作中不断提升系统与业务理解能力。"
+},
+"theme": {
+"color": "#2f5785",
+"tagColor": "#8bc34a"
+},
+"null": {
+"name": "杨华帮",
+"email": "yhb2843439221@163.com",
+"mobile": "19574461211",
+"github": "",
+"zhihu": "",
+"workExpYear": "",
+"workPlace": "",
+"positionTitle": "y"
+}
+}
